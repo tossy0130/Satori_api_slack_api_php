@@ -1,0 +1,29 @@
+2022年03月14日<<< 送信エラー リスト >>>
+
+
+1件：新規登録・更新エラー（upsert.json）
+■ エラーコード：401   ■ エラーメッセージ：Unauthorized
+user_key:::*** error ***
+user_secret:::*** error ***
+company_key:::*** error ***
+company_secret:::*** error ***
+customer[identity_type]:::email
+customer[collection_route]:::2022-01-28
+customer[append_tags]:::国内：Co_問合せ,国内：Co_カタログ/金具,国内：Co_カタログ/手すり,国内：漁具・船具・マリン関連
+customer[custom:gyoushu]:::01船具・漁具販売業
+customer[lead_company_name]:::テスト金属工業株式会社
+customer[department]:::営業部
+customer[position]:::主任
+customer[last_name]:::浅野
+customer[first_name]:::問合
+customer[last_name_reading]:::あさの
+customer[first_name_reading]:::といあわせ
+customer[custom:zip_code]:::955-0091
+customer[address]:::新潟県三条市上須頃asanometalbld.
+customer[phone_number]:::0256-33-0096
+customer[custom:fax]:::0256-33-0101
+customer[email]:::info@asano-metal.co.jp
+customer[web_site]:::*** error ***
+customer[custom:country]:::日本
+
+-----------------------------------------------------------------------------
