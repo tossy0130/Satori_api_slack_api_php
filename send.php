@@ -25,8 +25,7 @@ if (is_array($result_file) && empty($result_file)) {
 
     // 設定画面に表示されたWebhook URL
     // $url = "https://hooks.slack.com/services/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";
-    //　（本番用） 設定画面に表示されたWEbhook URL
-    $url = "https://hooks.slack.com/services/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";
+  
 
     $options = [
         CURLOPT_URL => $url,
@@ -66,8 +65,6 @@ if (is_array($result_file) && empty($result_file)) {
 
     // テストトークン
     //   $slacktoken = "xoxb-3173575395252-3163817438487-lpM9qHFlmNvjvmXQEzpanOTN";
-    // 本番トークン　（浅野金属様）
-    $slacktoken = "xoxb-309749096772-3239900843875-MzYLFRa60xiUKb9ucO2EYUBW";
 
     // テスト スラック ターゲットチャンネル（送信先）
     //  $channelId = 'general';
